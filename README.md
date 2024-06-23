@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlasterRiv
-- 👀 I’m interested in DnD, Minecraft and TF2
+- 👀 I’m interested in TTRPG's, Minecraft
 - 🌱 I’m currently learning Java, Python, C#, C 
 - 💞️ I’m looking to collaborate on Somthing simple, im brand new to this
 - 📫 How to reach me ...
