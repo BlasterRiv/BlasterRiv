@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @BlasterRiv
-- 👀 I’m interested in TTRPG's, Minecraft
-- 🌱 I’m currently learning Java, Python, C#, C 
+- 👀 I’m interested in TTRPG's, Minecraft, ART, and Vollyball
+- 🌱 I’m currently learning Java, Python, C#, C, and c++
 - 💞️ I’m looking to collaborate on Somthing simple, im brand new to this
 - 📫 How to reach me ...
-- 😄 Pronouns: they/he
-- ⚡ Fun fact: water is not real
+- 😄 Pronouns: Any
+- ⚡ Fun fact: There are over 10'000 books published per day
 
 <!---
 BlasterRiv/BlasterRiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
