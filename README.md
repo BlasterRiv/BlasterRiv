@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlasterRiv
 - 👀 I’m interested in TTRPG's, Minecraft, ART, and Vollyball
-- 🌱 I’m currently learning Java, Python, C#, C, and c++
+- 🌱 I’m currently learning Java, Python, C#, C, and C++
 - 💞️ I’m looking to collaborate on Somthing simple, im brand new to this
 - 📫 How to reach me ...
 - 😄 Pronouns: Any
