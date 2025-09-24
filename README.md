@@ -6,6 +6,8 @@
 - 😄 Pronouns: Any
 - ⚡ Fun fact: There are over 10'000 books published per day
 
+-My Game: https://blasterriv.itch.io/redsq
+
 <!---
 BlasterRiv/BlasterRiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
